@@ -1,5 +1,5 @@
 # Linked List 01
-
+[video](https://vimeo.com/932557003/56d2cb10db?share=copy)
 ![](./LinkedList.png)
 
 In today's lesson, we'll delve into the intricacies of linked lists, focusing particularly on the task of removing a node based on its value. As we navigate through the structure of linked lists, where each node is linked to the next without numerical indices, we'll explore the essential techniques for traversing these lists to locate and efficiently remove the desired node. This lesson will equip you with the skills to handle various edge cases, such as empty lists or the target node being at the head, ensuring the list remains intact and functional post-deletion. Join us as we unravel the nuances of this fundamental data structure operation, enhancing your understanding and proficiency in manipulating linked lists.
@@ -87,6 +87,7 @@ In today's lesson, we'll delve into the intricacies of linked lists, focusing pa
 
 # Linked List 02
 
+[video](https://vimeo.com/932576036/0b331b28d1?share=copy)
 ## Step 1
 ![](./MiddleList01.png)
 
